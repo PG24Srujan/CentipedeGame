@@ -3,19 +3,24 @@
 Srujan Lokhande
 2023/01/30
 
-Created a single page app for the centipede game showing the box-model of the final game.
-
-## Synopsis
----------------
-This page uses HTML and css to style and create and the basic the box-model for the centipede game.
+Created a single webpage for the Centipede Game showing the Box model.
 
 ## License 
 ---------------
-Copyright (C) 2023 PG24_Srujan Lokhande
+Copyright (C) 2023 Srujan Lokhande
+
+# Download/Install
+---------------------------------------
+Clone the project from the Github link given below or download the zip file and run index.html
+
+
+[Download Zip](https://github.com/PG24Srujan/Assignment-1_Bio-Web-Page.git)
+
 
 # *** How to use ***
 ---------------------------------------
-1. Download the index.html file
-2. Download the main.css file.
-3. Run index.html
+1. Run index.html
+
+
+
 
