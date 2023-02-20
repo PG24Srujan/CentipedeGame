@@ -40,6 +40,10 @@ https://github.com/PG24Srujan/CentipedeGame.git
 ---------------------------------------
 1. Run index.html
 
+# *** Caveats ***
+---------------------------------------
+1. Spawning mushroom when bullet hits the centipede is not working properly.
+
 
 
 
